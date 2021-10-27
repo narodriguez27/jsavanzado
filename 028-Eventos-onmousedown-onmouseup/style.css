@@ -1,0 +1,24 @@
+#foto{
+    display: none;
+}
+
+#boquita{
+    font-size: 30px;
+    margin: 10px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#boquitaRey{
+    color: blue;
+    background: yellow;
+    font-size: 30px;
+    display: none;
+
+}
+p{
+    height: 50px;
+    width: 50%;
+    text-align: center;
+}
